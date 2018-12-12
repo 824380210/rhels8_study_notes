@@ -26,4 +26,6 @@ error: failed to push some refs to 'git@github.com:824380210/rhels8_study_notes.
 [root@test rhels8_study_notes]# git push -u -f origin master
 
 
+
+
 ```
